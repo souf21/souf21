@@ -7,17 +7,6 @@ I’ve worked with international clients on Shopify projects, built full-stack w
 
 I enjoy turning complex requirements into **clean, reliable, and user-friendly products**.
 
-<p align="left">
-  <a href="https://github.com/souf21">
-    <img alt="GitHub followers" title="Follow me on GitHub"
-      src="https://custom-icon-badges.demolab.com/github/followers/souf21?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-  </a>
-  <a href="https://github.com/souf21?tab=repositories">
-    <img alt="GitHub stars" title="Total stars"
-      src="https://custom-icon-badges.demolab.com/github/stars/souf21?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
-  </a>
-</p>
-
 ---
 
 ## 🧰 Languages & Tools
