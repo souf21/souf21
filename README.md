@@ -1,11 +1,15 @@
 ## 🧑‍💻 Soufiane Remmal
 
-**`Frontend / Full-Stack Developer • Automation & E-commerce`**
+**`Full-Stack Developer • Automation & E-commerce`**
 
-I’m a software developer specialized in **frontend interfaces**, **e-commerce platforms**, and **workflow automation**.  
-I’ve worked with international clients on Shopify projects, built full-stack web applications, and designed automation systems using **n8n** and APIs.
+I’m a full-stack web developer mainly working with JavaScript, using React on the frontend and Node.js / Express on the backend. I’ve worked on real web applications where I handled forms, data imports, REST APIs, and database interactions. I care a lot about writing clean code and making sure the frontend and backend communicate properly, especially on features that users interact with every day.
 
-I enjoy turning complex requirements into **clean, reliable, and user-friendly products**.
+I’m especially interested in AI and automation. Recently, I started integrating AI models directly into backend workflows to automate repetitive tasks and make data processing more reliable.
+
+I enjoy bridging the gap between users and technology — whether it’s solving complex problems, helping teammates, or delivering features that improve user experience.
+
+My goal is to grow as a full-stack developer by contributing to useful products, building internal tools for teams, and documenting solutions clearly to ensure maintainability and knowledge sharing.
+
 
 ---
 
