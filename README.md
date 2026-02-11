@@ -39,36 +39,7 @@ I enjoy turning complex requirements into **clean, reliable, and user-friendly p
 - ⚡ Shopify theme customization (Liquid, JavaScript, performance fixes)
 - 🔗 API integrations & workflow automation with **n8n**
 - 🧠 Full-stack applications (React + Node.js)
-- 📦 Data mapping & import tools for CRMs
 - 🎨 Clean UI implementation from Figma designs
-
----
-
-## 📌 Selected Projects
-
-- **Automated Mapping Assistant**  
-  *Next.js · Express · MongoDB · OpenAI*  
-  Automates file imports by mapping only required fields.
-
-- **Barbershop Booking Platform**  
-  *Next.js · Node.js · Redis · REST API*  
-  Real-time booking system with admin dashboard.
-
-- **Blackjack Game with AI**  
-  *React · Flask · Python (Reinforcement Learning)*  
-  Game logic combined with AI-based decision making.
-
-- **E-commerce Platform (Final Year Project)**  
-  *Laravel · MySQL · Alpine.js*
-
----
-
-## 🌍 Languages
-
-**English (Fluent)** • **French (Fluent)** • **Arabic (Native)**
-
----
-
 <!-- Optional GitHub Stats -->
 <!--
 ![Soufiane's GitHub stats](https://github-readme-stats.vercel.app/api?username=souf21&show_icons=true&theme=gruvbox)
