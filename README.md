@@ -35,10 +35,9 @@ I enjoy turning complex requirements into **clean, reliable, and user-friendly p
 ---
 
 ## 🛠️ What I Work On
-
-- ⚡ Shopify theme customization (Liquid, JavaScript, performance fixes)
-- 🔗 API integrations & workflow automation with **n8n**
 - 🧠 Full-stack applications (React + Node.js)
+- 🔗 API integrations & workflow automation with **n8n**
+- ⚡ Shopify theme customization (Liquid, JavaScript, performance fixes)
 - 🎨 Clean UI implementation from Figma designs
 <!-- Optional GitHub Stats -->
 <!--
