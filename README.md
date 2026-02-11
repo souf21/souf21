@@ -6,7 +6,7 @@ I’m a full-stack web developer mainly working with JavaScript, using React on 
 
 I’m especially interested in AI and automation. Recently, I started integrating AI models directly into backend workflows to automate repetitive tasks and make data processing more reliable.
 
-I enjoy bridging the gap between users and technology — whether it’s solving complex problems, helping teammates, or delivering features that improve user experience.
+I enjoy bridging the gap between users and technology whether it’s solving complex problems, helping teammates, or delivering features that improve user experience.
 
 My goal is to grow as a full-stack developer by contributing to useful products, building internal tools for teams, and documenting solutions clearly to ensure maintainability and knowledge sharing.
 
